@@ -42,7 +42,7 @@ Master Large Language Models, Prompt Engineering, RAG, Agents, LangChain, Vector
 
 ### 📖 Open Here
 
-➡️ **[LLM-Roadmap](LLM-Roadmap)**
+➡️ **[LLM-Roadmap](LLM-Roadmap.md)**
 
 </td>
 
