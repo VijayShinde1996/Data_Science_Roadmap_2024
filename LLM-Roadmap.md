@@ -1,5 +1,4 @@
 # LLM-Open-University-From-Begineer-to-Advanced
-- A complete roadmap to master LLMs for absolute beginners to advanced 
 
 Large Language Models (LLMs) are now an important part of modern AI systems. They are used in chatbots, search systems, coding assistants, data analysis tools, agents, and many other applications. Because of this, LLM-related skills are becoming increasingly important for data scientists, machine learning engineers, AI engineers, and software developers working in the AI field.
 
