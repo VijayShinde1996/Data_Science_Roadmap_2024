@@ -31,9 +31,6 @@ The final section is focused on portfolio building. It includes project ideas an
 
 Each section builds on the previous one, moving from fundamentals to training, then to production applications, and finally to portfolio projects. By the end of the roadmap, you should have a clear learning path and a practical understanding of how to work with LLMs across different stages of the development lifecycle.
 
-<img width="1672" height="941" alt="ChatGPT Image Jun 6, 2026, 06_24_22 PM" src="https://github.com/user-attachments/assets/c35b2b4a-2d0a-4349-9d7f-09476198774b" />
-
-
 ### Table of Contents: ###
 
 - [Part I: LLM Basics & Architecture](#part-i-llm-basics--architecture)
